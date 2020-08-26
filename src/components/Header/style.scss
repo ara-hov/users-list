@@ -1,0 +1,10 @@
+.header {
+  padding: 24px;
+  display: flex;
+  justify-content: flex-end;
+  column-gap: 20px;
+  .ant-input-affix-wrapper {
+    max-width: 200px;
+    border-radius: 15px;
+  }
+}
